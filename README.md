@@ -11,7 +11,8 @@ const leticia = {
     languages: ["Portuguese", "English"],
     code: ["TypeScript", "JavaScript"],
     technologies: {
-        frontend: ["React", "React Native", "Next.js"],
+        frontend: ["React", "Next.js"],
+        mobile: ["React Native", "Android"],
         backend: ["Node.js", "Express"],
         databases: ["PostgreSQL", "MongoDB", "Firebase"],
         tests: ["Jest", "Cypress", "React Testing Library", "Vitest"],
