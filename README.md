@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">
+   Hi there, I'm Letícia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
 
-<!--
-**leticia-chijo/leticia-chijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const leticia = {
+    fullName: "Letícia Alves Chijo",
+    pronouns: ["She", "Her"],
+    jobs: ["Coding Teacher", "FullStack Developer"],
+    country: "Brazil",
+    languages: ["Portuguese", "English"],
+    code: ["TypeScript", "JavaScript"],
+    technologies: {
+        frontend: ["React", "React Native", "Next.js"],
+        backend: ["Node.js", "Express"],
+        databases: ["PostgreSQL", "MongoDB", "Firebase"],
+        tests: ["Jest", "Cypress", "React Testing Library", "Vitest"],
+        misc: ["Redux", "styled-components", "Prisma ORM"]
+    },
+    funFact: "Recently got addicted to Brandon Sanderson's fantasy books"
+};
+```
