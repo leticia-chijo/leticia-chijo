@@ -18,6 +18,7 @@ const leticia = {
         tests: ["Jest", "Cypress", "React Testing Library", "Vitest"],
         misc: ["Redux", "styled-components", "Prisma ORM"]
     },
+    hobbies: ["video games", "board games", "books", "drawing", "gym"],
     funFact: "Recently got addicted to Brandon Sanderson's fantasy books"
 };
 ```
